@@ -18,7 +18,18 @@ PC: 4000
 ## Actividad 2: Subrayar 'READY' de colores
 8 filas de píxeles de distintos colores subrayando toda la palabra de Ready (40 píxeles)
 ```
-21 43 77 22 00 C8 18 FE
+3E 3F 32 8E C2 18 FE
+21 FF FF 22 8F C2 18 FE
+21 FF FF 22 90 C2 18 FE
+21 FF FF 22 91 C2 18 FE
+21 FF FF 22 92 C2 18 FE
+21 FF FF 22 93 C2 18 FE
+3E 0C 32 8E CA 18 FE
+3E 0C 32 8E D2 18 FE
+3E 0C 32 8E DA 18 FE
+3E 0C 32 8E E2 18 FE
+3E 0C 32 8E EA 18 FE
+3E 3F 32 8E F2 18 FE
 ```
 PC: 4000
 
@@ -39,7 +50,7 @@ PC: 4000
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/filas3.jpg)
-![Actividad 2](/tuimagen2.png)
+![Actividad 2](/rectangulo.jpg)
 ![Actividad 3](/tuimagen3.png)
 ![Actividad 4](/tuimagen4.png)
 
